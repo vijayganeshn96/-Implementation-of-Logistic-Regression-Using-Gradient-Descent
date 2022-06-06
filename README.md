@@ -8,10 +8,15 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import packages.
+2. Read the csv file for datas.
+3. Check for duplicate data in the given data. 
+4. Using sklearn transform every column.
+5. Assign a column to x.
+6. Train the model using test datas.
+7. Using logistic gradient predict the datas .
+8. End.
+
 
 ## Program:
 ```
@@ -64,9 +69,9 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![logistic regression using gradient descent]()
-![logistic regression using gradient descent]()
-![logistic regression using gradient descent]()
+![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/ex%204.1.png)
+![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/ex%204.2.png)
+![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/exp%204.3.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
