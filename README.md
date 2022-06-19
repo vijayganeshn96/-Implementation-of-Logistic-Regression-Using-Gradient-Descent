@@ -20,6 +20,12 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
+/*
+Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by: Vijay Ganesh N
+RegisterNumber:  212221040177
+*/
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -61,17 +67,12 @@ plt.ylabel('estimated Salary')
 plt.legend()
 plt.show()
 
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Vijay Ganesh N
-RegisterNumber:  212221040177
-*/
 ```
 
 ## Output:
-![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/ex%204.1.png)
-![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/ex%204.2.png)
-![logistic regression using gradient descent](https://github.com/vijayganeshn96/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/exp%204.3.png)
+![logistic regression using gradient descent]()
+![logistic regression using gradient descent]()
+![logistic regression using gradient descent]()
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
